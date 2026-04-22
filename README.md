@@ -54,7 +54,7 @@ dcf-nubank-valuation/ │ ├── DCF_Nubank_Model.xlsx # Modelo principal ├
 ## 🚀 Como Executar
 
 ### 1. Clonar o Repositório
-```bash
+bash
 git clone https://github.com/marcelomourafreire/dcf-nubank-valuation.git
 cd dcf-nubank-valuation
 
